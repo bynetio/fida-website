@@ -5,16 +5,12 @@ export const menuItems = {
       link: '#'
     },
     {
-      label: 'whitepaper',
-      link: '#'
-    },
-    {
-      label: 'invest deck',
-      link: '#'
+      label: 'investor deck',
+      link: 'https://docsend.com/view/vk3buz5675z2siuy'
     },
   ],
-  joinCommunity: {
-    label: 'join our community',
-    link: '#'
+  joinNetwork: {
+    label: 'join our network',
+    link: ' https://share.hsforms.com/1BenVBo4ESxyMjAsvqk0GRQe8c3w'
   }
 };
